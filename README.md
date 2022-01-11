@@ -1,4 +1,3 @@
-![Futura](futura.png)
 ### Nord Theme for Spicetify
 
 
